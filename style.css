@@ -3,13 +3,24 @@ span {
 }
 body {
     text-align: center;
+  background-color: gold;
 }
-/* span {
+
+span {
   display: inline-block;
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
-} */
+} 
+
+#icons {
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  width: 30%;
+  border: 2px solid red;
+  padding: 10px;
+}
 /* 
 #one {
   background-color:lightblue;
